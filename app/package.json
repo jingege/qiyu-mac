@@ -1,0 +1,14 @@
+{
+  "name": "QiyuMac",
+  "main": "https://qiyukf.com/register/signup?tag=login",
+  "version": "0.1.0",
+  "window": {
+    "toolbar": false,
+    "width": 1280,
+    "height": 800,
+    "title": "网易七鱼",
+    "position": "center"
+  },
+  "description": "网易七鱼Mac版客户端",
+  "user-agent": "Qiyu-Mac"
+}

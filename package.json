@@ -1,0 +1,8 @@
+{
+  "name": "QiyuMac",
+  "description": "Qiyu Mac",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-nw-builder": "latest"
+  }
+}
