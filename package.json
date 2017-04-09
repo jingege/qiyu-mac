@@ -3,6 +3,7 @@
   "description": "Qiyu Mac",
   "devDependencies": {
     "grunt": "latest",
+    "grunt-contrib-copy": "^1.0.0",
     "grunt-nw-builder": "latest"
   }
 }
